@@ -10,63 +10,76 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 662
+      base_file: v001.txt
     bb3f317594a345c9b0d42747aaacfaeb:
       image_group_id: I1KG13722
       title: ''
       volume_number: 2
       total_pages: 694
+      base_file: v002.txt
     65aff17e5e2e44e4ad269714ab989c84:
       image_group_id: I1KG13723
       title: ''
       volume_number: 3
       total_pages: 660
+      base_file: v003.txt
     7b0bc3e30f204fa482234f36388a3fdc:
       image_group_id: I1KG13724
       title: ''
       volume_number: 4
       total_pages: 690
+      base_file: v004.txt
     e7112d861a684a989d97eab4fa50181e:
       image_group_id: I1KG13725
       title: ''
       volume_number: 5
       total_pages: 622
+      base_file: v005.txt
     dc947a47915f42bda6a564114801209b:
       image_group_id: I1KG13726
       title: ''
       volume_number: 6
       total_pages: 655
+      base_file: v006.txt
     738eef1c1bff4b089e236dd567941e37:
       image_group_id: I1KG13727
       title: ''
       volume_number: 7
       total_pages: 710
+      base_file: v007.txt
     d296234a6a7b4c95b72af8070db91717:
       image_group_id: I1KG13728
       title: ''
       volume_number: 8
       total_pages: 510
+      base_file: v008.txt
     a8147e9edbeb49009e1a90fe1b7d3850:
       image_group_id: I1KG13729
       title: ''
       volume_number: 9
       total_pages: 682
+      base_file: v009.txt
     3f8e2e14158740c3a0473f88a09582fa:
       image_group_id: I1KG13730
       title: ''
       volume_number: 10
       total_pages: 654
+      base_file: v010.txt
     b8caa3a0406a4facbb20b0e4940f2393:
       image_group_id: I1KG13731
       title: ''
       volume_number: 11
       total_pages: 693
+      base_file: v011.txt
     ea4b1010dfe346a9aeb4a46db19da8ef:
       image_group_id: I1KG13732
       title: ''
       volume_number: 12
       total_pages: 656
+      base_file: v012.txt
     fa4f1160ee944e14859f09e25d03708c:
       image_group_id: I1KG13733
       title: ''
       volume_number: 13
       total_pages: 704
+      base_file: v013.txt
